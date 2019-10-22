@@ -3,7 +3,7 @@ It's a program developer to check if your homework are right or wrong. In univer
 
 ## Getting Started
 
-You can just download the setup file from the website **[poli.iobbi.com](https://poli.iobbi.com)**, or ou can customize your own assembly interpreter cloneing this repository and eidt the visual studio project.
+You can just download the setup file from the website **[poli.iobii.com](https://poli.iobii.com)**, or ou can customize your own assembly interpreter cloneing this repository and eidt the visual studio project.
 
 
 ### Credits
