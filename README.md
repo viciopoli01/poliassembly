@@ -12,7 +12,7 @@ You can just download the setup file from the website **[poli.iobbi.com](https:/
 
 ## Authors
 
-* **[Viciopoli](http://iobii.it)** 
+* **[Viciopoli](http://iobii.com)** 
 
 
 ## License
