@@ -1,0 +1,53 @@
+c:\users\poliz\documents\visual studio 2015\Projects\PoliAssembly\PoliAssembly\bin\Debug\PoliAssembly.exe.config
+c:\users\poliz\documents\visual studio 2015\Projects\PoliAssembly\PoliAssembly\bin\Debug\PoliAssembly.exe
+c:\users\poliz\documents\visual studio 2015\Projects\PoliAssembly\PoliAssembly\bin\Debug\PoliAssembly.pdb
+c:\users\poliz\documents\visual studio 2015\Projects\PoliAssembly\PoliAssembly\obj\Debug\PoliAssembly.Form1.resources
+c:\users\poliz\documents\visual studio 2015\Projects\PoliAssembly\PoliAssembly\obj\Debug\PoliAssembly.Properties.Resources.resources
+c:\users\poliz\documents\visual studio 2015\Projects\PoliAssembly\PoliAssembly\obj\Debug\PoliAssembly.csproj.GenerateResource.Cache
+c:\users\poliz\documents\visual studio 2015\Projects\PoliAssembly\PoliAssembly\obj\Debug\PoliAssembly.exe
+c:\users\poliz\documents\visual studio 2015\Projects\PoliAssembly\PoliAssembly\obj\Debug\PoliAssembly.pdb
+C:\Users\poliz\documents\visual studio 2015\Projects\PoliAssembly\PoliAssembly\obj\Debug\PoliAssembly.csprojResolveAssemblyReference.cache
+C:\Users\poliz\Documents\Visual Studio 2015\Projects\PoliAssembly\PoliAssembly\bin\Debug\linenum_rtf.cs
+D:\PoliAssembly 10-01-17\PoliAssembly\bin\Debug\PoliAssembly.exe.config
+D:\PoliAssembly 10-01-17\PoliAssembly\obj\Debug\PoliAssembly.exe
+D:\PoliAssembly 10-01-17\PoliAssembly\obj\Debug\PoliAssembly.pdb
+D:\PoliAssembly 10-01-17\PoliAssembly\bin\Debug\linenum_rtf.cs
+D:\PoliAssembly 10-01-17\PoliAssembly\bin\Debug\PoliAssembly.exe
+D:\PoliAssembly 10-01-17\PoliAssembly\bin\Debug\PoliAssembly.pdb
+D:\PoliAssembly 10-01-17\PoliAssembly\obj\Debug\PoliAssembly.csprojResolveAssemblyReference.cache
+D:\PoliAssembly 10-01-17\PoliAssembly\obj\Debug\PoliAssembly.Form1.resources
+D:\PoliAssembly 10-01-17\PoliAssembly\obj\Debug\PoliAssembly.Properties.Resources.resources
+D:\PoliAssembly 10-01-17\PoliAssembly\obj\Debug\PoliAssembly.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\bin\Debug\consoleTextBox.resx
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\bin\Debug\consoleTextBox.cs
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\bin\Debug\PoliAssembly.exe.config
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\bin\Debug\PoliAssembly.exe.manifest
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\bin\Debug\PoliAssembly.application
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\bin\Debug\PoliAssembly.exe
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\bin\Debug\PoliAssembly.pdb
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\bin\Debug\PoliAssembly.exe.CodeAnalysisLog.xml
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\bin\Debug\PoliAssembly.exe.lastcodeanalysissucceeded
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\bin\Debug\FastColoredTextBox.dll
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\bin\Debug\FastColoredTextBox.xml
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\obj\Debug\PoliAssembly.g.resources
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\obj\Debug\PoliAssembly.consoleTextBox.resources
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\obj\Debug\PoliAssembly.Form1.resources
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\obj\Debug\PoliAssembly.Info.resources
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\obj\Debug\PoliAssembly.Properties.Resources.resources
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\obj\Debug\PoliAssembly.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\obj\Debug\PoliAssembly.TrustInfo.xml
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\obj\Debug\PoliAssembly.exe.manifest
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\obj\Debug\PoliAssembly.application
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\obj\Debug\PoliAssembly.exe
+C:\Users\user\Desktop\PoliAssembly 10-01-17\PoliAssembly\obj\Debug\PoliAssembly.pdb
+D:\Desktop\Università\POLIMI\Primo Anno\Primo semestre\lab_informatica e PoliAssembly\PoliAssembly 24-02-17 ver 1.1.0\PoliAssembly\obj\Debug\PoliAssembly.csprojAssemblyReference.cache
+D:\Desktop\Università\POLIMI\Primo Anno\Primo semestre\lab_informatica e PoliAssembly\PoliAssembly 24-02-17 ver 1.1.0\PoliAssembly\obj\Debug\PoliAssembly.g.resources
+D:\Desktop\Università\POLIMI\Primo Anno\Primo semestre\lab_informatica e PoliAssembly\PoliAssembly 24-02-17 ver 1.1.0\PoliAssembly\obj\Debug\PoliAssembly.consoleTextBox.resources
+D:\Desktop\Università\POLIMI\Primo Anno\Primo semestre\lab_informatica e PoliAssembly\PoliAssembly 24-02-17 ver 1.1.0\PoliAssembly\obj\Debug\PoliAssembly.Form1.resources
+D:\Desktop\Università\POLIMI\Primo Anno\Primo semestre\lab_informatica e PoliAssembly\PoliAssembly 24-02-17 ver 1.1.0\PoliAssembly\obj\Debug\PoliAssembly.Info.resources
+D:\Desktop\Università\POLIMI\Primo Anno\Primo semestre\lab_informatica e PoliAssembly\PoliAssembly 24-02-17 ver 1.1.0\PoliAssembly\obj\Debug\PoliAssembly.Properties.Resources.resources
+D:\Desktop\Università\POLIMI\Primo Anno\Primo semestre\lab_informatica e PoliAssembly\PoliAssembly 24-02-17 ver 1.1.0\PoliAssembly\obj\Debug\PoliAssembly.csproj.GenerateResource.cache
+D:\Desktop\Università\POLIMI\Primo Anno\Primo semestre\lab_informatica e PoliAssembly\PoliAssembly 24-02-17 ver 1.1.0\PoliAssembly\obj\Debug\PoliAssembly.csproj.CoreCompileInputs.cache
+D:\Desktop\Università\POLIMI\Primo Anno\Primo semestre\lab_informatica e PoliAssembly\PoliAssembly 24-02-17 ver 1.1.0\PoliAssembly\obj\Debug\PoliAssembly.TrustInfo.xml
+D:\Desktop\Università\POLIMI\Primo Anno\Primo semestre\lab_informatica e PoliAssembly\PoliAssembly 24-02-17 ver 1.1.0\PoliAssembly\obj\Debug\PoliAssembly.exe
+D:\Desktop\Università\POLIMI\Primo Anno\Primo semestre\lab_informatica e PoliAssembly\PoliAssembly 24-02-17 ver 1.1.0\PoliAssembly\obj\Debug\PoliAssembly.pdb

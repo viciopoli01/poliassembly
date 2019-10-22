@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="PoliAssembly.exe" version="1.0.0.2" publicKeyToken="714ef115e73faa1d" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="poliass.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="PoliAssembly" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="PoliAssembly.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- Opzioni manifesto di Controllo dell'account utente
+             Per modificare il livello di Controllo dell'account utente di Windows, sostituire il 
+             nodo requestedExecutionLevel con uno dei seguenti.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Se si specifica l'elemento requestedExecutionLevel, la funzionalità Virtualizzazione file system e registro di sistema verrà disabilitata. 
+            Rimuovere questo elemento se l'applicazione richiede questa virtualizzazione per
+            compatibilità con le versioni precedenti.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PoliAssembly.exe" size="892344">
+      <assemblyIdentity name="PoliAssembly" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>XhmLzriCp6tE65vln8Rt8Zy24Qjyo5BIR/ol7H3wtV0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="pa_fileicon.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>mgA9QmUbecm/DH1tdHDS3s+2DZpVkgxGwsJXPtpixdw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="poliass.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+sMvXD2JFu5SzF0wzd93Nz5Be89SBJ+TTlcdZ3RSFvc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PoliAssembly.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <fileAssociation extension=".pa" description="PoliAssemblyFile" progid="PoliAssembly.file" defaultIcon="pa_fileicon.ico" xmlns="urn:schemas-microsoft-com:clickonce.v1" />
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- Elenco delle versioni di Windows in cui è stata testata questa applicazione e
+           per cui è stato previsto l'uso. Rimuovere il commento dagli elementi appropriati per 
+           fare in modo che Windows selezioni automaticamente l'ambiente più compatibile. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=user-TOSH\user" issuerKeyHash="516606b976cd656c0a8d7b107e693187af4a66c5" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>zrepljXQSoeZqlnQU6+wDDsbLqXQ+yI4+i/vR2TffCI=</DigestValue></Reference></SignedInfo><SignatureValue>Bnog08nfUxjDCiHTpL+MQZOdp2BX2RpKXRrpnV6exN01B8K89pLEnkDrN6Weq3ywk9XvTFepTZlX0uvwcDqfQWUL1dn6F4pA8jbSMxSPpPgRGGElDNVabwOalHBldK1CS4ktWshLEBtyrog202e1Du/YSdVp2+8OaZtmmnUoX60=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>5y2I8boOpP6exw69n6p+qXcQy2cqUab0o/8nj/95wqZVUf41se6mo46p3Ni78xX6KFi73EtEQgc6pCcmyfSxYuhQMHdGdFXH03fPxOxRrd90TRGwtZnBkuIe/If/yjNm7uvn6BrTksmB7562/gjmQx4elSDF933opGX0Dc03788=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="227cdf6447ef2ffa3822fbd0a52e1b3b0cb0af53d059aa99874ad03596a9b7ce" Description="" Url=""><as:assemblyIdentity name="PoliAssembly.exe" version="1.0.0.2" publicKeyToken="714ef115e73faa1d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=user-TOSH\user</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>TMr2ssRSwAK1J0zAiehOUWkFHd/AN2EWOhf/XoWYuOM=</DigestValue></Reference></SignedInfo><SignatureValue>izZgt08gpZGyjtoFWloKSruPGqPcCHQgDsc9lGlXTr7hJLNYoAFEJ+qwngn2hk3LfHiqxcmXI+oSWvpzDbYpd6/omIzvo+vv52iX0AMXDwu/zFNYnFvGhTDjZFkxRCt3mzbuGOPGrtsPZQmnyhx2UagfHU+BlEARQaK5oN+aD84=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>5y2I8boOpP6exw69n6p+qXcQy2cqUab0o/8nj/95wqZVUf41se6mo46p3Ni78xX6KFi73EtEQgc6pCcmyfSxYuhQMHdGdFXH03fPxOxRrd90TRGwtZnBkuIe/If/yjNm7uvn6BrTksmB7562/gjmQx4elSDF933opGX0Dc03788=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQKx32POXvsJ1PFjhppDpSezANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwAdQBzAGUAcgAtAFQATwBTAEgAXAB1AHMAZQByMB4XDTE3MDEyMTE3MTQyNloXDTE4MDEyMTIzMTQyNlowJzElMCMGA1UEAx4cAHUAcwBlAHIALQBUAE8AUwBIAFwAdQBzAGUAcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA5y2I8boOpP6exw69n6p+qXcQy2cqUab0o/8nj/95wqZVUf41se6mo46p3Ni78xX6KFi73EtEQgc6pCcmyfSxYuhQMHdGdFXH03fPxOxRrd90TRGwtZnBkuIe/If/yjNm7uvn6BrTksmB7562/gjmQx4elSDF933opGX0Dc03788CAwEAATANBgkqhkiG9w0BAQsFAAOBgQBUhYUBadrMUNEVSNIUFPG/til85ukLiIDX9Yh5mruU1ONUEA6vsdj29pk5v7b+aVRV/hltaRzQvKsaYO+ShQsxVhyirL5wU+1Dne8iqN42hbgsHjgjMbx3hjIaGKqceYkdZ1Rad8koe3KJ9x4gxSaYnet9pzT2pidIDx2M/yLgHg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
