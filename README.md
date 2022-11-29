@@ -19,6 +19,3 @@ You can just download the setup file from the website **[poli.iobii.com](https:/
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
-## Acknowledgments
-
-* The project should work, but it's not perfect yet
